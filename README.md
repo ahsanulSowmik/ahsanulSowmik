@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Ahsanul Soqmik</h1>
+<h1 align="center">Hi 👋, I'm Ahsanul Sowmik</h1>
 <h3 align="center">A Software Engineer.</h3>
 <img align="right" width="400" src="https://theninehertz.com/wp-content/uploads/2018/10/utility-apps.gif" alt="" />
 
