@@ -4,7 +4,7 @@
 Experienced software engineer and Instructor with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Highly adaptable and 2.5+ years of experience in software development. I want to be in such a company where, I will have the opportunity of enhancing my knowledge and I am able to provide a competitive advantage with my knowledge and skills.
 
 ## 👨🏽‍💻 What I'm working on 
-Currently, I am working on BJIT Trainee Software Engineer
+Currently, I am working on Giga Tech Ltd Software Engineer
 
 ## 🧠 What I'm currently learning
 I'm currently learning Java,Jsp ,Servlet,Spring Boot,React.JS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
