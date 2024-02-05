@@ -1,6 +1,6 @@
 <img alt="Coder GIF" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" style="max-width: 100%;max-height: 50%;" data-target="animated-image.originalImage">
 <h1 align="left">Hi 👋, I'm Mohammad Ahsanul Islam</h1>
-<h3 align="left">Software Engineer Trainee @Giga Tech Ltd.</h3>
+<h3 align="left">Software Engineer @Giga Tech Ltd.</h3>
 Experienced software engineer and Instructor with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Highly adaptable and 2.5+ years of experience in software development. I want to be in such a company where, I will have the opportunity of enhancing my knowledge and I am able to provide a competitive advantage with my knowledge and skills.
 
 ## 👨🏽‍💻 What I'm working on 
